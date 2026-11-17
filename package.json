@@ -1,0 +1,22 @@
+{
+  "name": "jgitu-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Jim Gitu - Programmes, Learning Design & EdTech Product Lead",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGitu-creator/jgitu-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web"
+  ],
+  "author": "Jim Gitu",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  }
+}
